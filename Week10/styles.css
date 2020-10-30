@@ -1,0 +1,35 @@
+body {
+  width: 1000px;
+  margin: auto;
+  background: #e7b733;
+  font-size: 16px;
+  font-family: "Times New Roman", Georgia, Serif;
+  text-align: center;
+}
+.h5 {
+    text-align: right;
+}
+
+header {
+  margin: 10px;
+  border-bottom: 1px solid #000;
+}
+
+table {
+  margin: 20px;
+  border-top: 1px solid #555;
+  border-left: 1px solid #555;
+  border-collapse: collapse;
+  font-size: 15px;
+}
+
+table caption {
+  margin: 20px;
+  text-align: left;
+}
+
+th, td {
+  padding: 10px;
+  border-right: 1px solid #555;
+  border-bottom: 1px solid #555;
+}
